@@ -1,7 +1,9 @@
 import random
 
 class World:
+    
     def __init__(self):
+        
         # place the nest and the food
 
 
